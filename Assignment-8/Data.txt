@@ -1,0 +1,16 @@
+1001,Arnav Navghare,100,100,100,100,100,100,A+
+1006,Sudheer Patel,98,96,98,87,58,87.4,A
+1007,Sagar Patel,98,78,85,96,65,84.4,A
+1015,Prasad Kade,98,78,85,96,65,84.4,A
+1005,Sudarshan Sharma,98,96,97,65,41,79.4,B+
+1010,Shreedhar Randive,98,78,85,64,65,78,B+
+1016,Ajinkya Yenurkar,98,78,85,63,47,74.2,B+
+1009,Ele Seventeen,98,78,74,52,63,73,B+
+1011,Dhruv Rathi,14,56,89,74,89,64.4,B
+1012,Parmeshwar Wagh,98,78,45,63,14,59.6,C+
+1013,Guru Prasad,87,98,74,14,25,59.6,C+
+1004,Shubham Jakkapure,80,41,25,63,88,59.4,C+
+1002,Amey Kadam,30,90,100,30,14,52.8,C+
+1008,Anil Mane,8,9,65,47,52,36.2,D
+1000,Ashutosh Kusalkar,0,9,6,4,100,23.8,D
+1003,Jeevan Kalyankar,5,9,6,4,8,6.4,D
